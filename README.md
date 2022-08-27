@@ -11,5 +11,7 @@ A streamlit app to analyze your whatsapp chats
 Now you have the dataset as 'txt' , upload it.
 
 
+![](ss1.png)
+![](ss2.png)
 
 
