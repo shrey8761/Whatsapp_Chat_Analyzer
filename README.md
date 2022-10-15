@@ -1,5 +1,9 @@
-# whatsapp-chat-analysis
-A streamlit app to analyze your whatsapp chats
+# Textify-Analyzer
+A streamlit app to analyze your social chats.
+
+Benefits - 
+1. What time Other person is Available or Busy.
+2. Quiucly find if group is healthy for betterment of society.
 
 *Steps to Get Your Personal WHATSAPP CHAT history:*
 
